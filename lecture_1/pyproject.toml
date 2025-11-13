@@ -1,0 +1,4 @@
+[project]
+name = "lecture_1"
+version = "0.4.6"
+dependencies = ["colorama"]
